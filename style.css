@@ -1,0 +1,21 @@
+ul.skills {
+    font-size: 10pt;
+    color: #080808;
+    font-family: Helvetica, Calibri, Droid Sans, Sans-Serif;
+    padding-left: 0.8em;
+}
+
+div.right {
+    text-align: right;
+}
+
+div.container {
+    box-shadow: rgba(0,0,0,0.7) 2px 2px 2px;
+    border: rgba(0, 0, 0, 0.7) 2px solid;
+}
+
+h2.namesurname {
+    color: #080824;
+    text-transform: uppercase;
+    font-weight: 700;
+}
